@@ -1,0 +1,8 @@
+# File modified on Sat Jul 23 09:36:28 2011 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag zlib.output_compression Off
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_flag output_buffering Off
+# File modified on Sat Jul 23 09:36:28 2011 by server
+# For security reasons, mod_php is not used on this server. Use a php.ini file for php directives
+# php_value output_handler NULL

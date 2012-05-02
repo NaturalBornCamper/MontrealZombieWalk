@@ -1,0 +1,19 @@
+/* CSS Document */
+
+#wrapper #websiteTitle
+{
+	top:10px;
+	left:150px;
+}
+
+#languageSelection
+{
+	left:500px;
+	bottom:150px;
+}
+
+#wrapper #spasmLogo
+{
+	bottom:100px;
+	left:50px;
+}

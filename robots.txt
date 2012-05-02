@@ -1,0 +1,5 @@
+sitemap: http://www.montrealzombiewalk.com/sitemap.xml
+User-agent: *
+Disallow: /www/DATA/
+Disallow: /cgi-bin/
+Disallow: /admin/

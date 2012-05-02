@@ -1,0 +1,24 @@
+/* CSS Document */
+
+/* POUR SMART OPTIMIZER, PAS LE CHOIX DE METTRE UN ../ DE PLUS (SAIS PAS POURQUOI) */
+@font-face {
+    font-family: 'DowncomeRegular';
+    src: url('../../fonts/downcome-webfont.eot');
+    src: url('../../fonts/downcome-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/downcome-webfont.woff') format('woff'),
+         url('../../fonts/downcome-webfont.ttf') format('truetype'),
+         url('../../fonts/downcome-webfont.svg#DowncomeRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DJGrossNormal';
+    src: url('../../fonts/DJGROSS-webfont.eot');
+    src: url('../../fonts/DJGROSS-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/DJGROSS-webfont.woff') format('woff'),
+         url('../../fonts/DJGROSS-webfont.ttf') format('truetype'),
+         url('../../fonts/DJGROSS-webfont.svg#DJGrossNormal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

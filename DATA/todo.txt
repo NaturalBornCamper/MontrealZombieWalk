@@ -1,0 +1,71 @@
+e404
+chaque album photo ou video ou whatever est un article
+info à infos, medias à media, link à links, contacts contact
+Une des skins = affiche
+messages sur adresses email, plugin?
+vidéos trailers dans media
+réessayer sans javascript, pancarte est la mais pas le texte
+Sitemaps donc hotlinking!!
+hotlinking juste un tableau selon la langue, en DB?
+titres et descriptions (+og) pour les sous-sections parce que c'est juset les sections principales présentement
+sous-menu en js
+strftime('%F', strtotime('last monday')) dans sitemap
+carte avec plus de détails
+Albums Avec un (-) et un (+) pour cacher/afficher
+/media/photos fonctionne pas, faut faire /en/media/photos sinon remvoie à /media
+
+controllers un mélange de news et media car les deux sont plus clean
+fonctions dans controller private
+Ile sans fil
+emails qui disparaissent?
+Paypal
+clic image dans un div à la place
+SITEMAP (section) déploie le sitemap et fais les liens avec le retour de manière simple (sitelinks!!)
+robots.txt à jour
+news de rss = 15 latest
+liens doivent être soit en anglais ou en francais parce qui sont jamais en deux langues
+- Lignes noir qui barre les titres quand on passe la souris dessus (avec la dernière version de firefox)
+- rendre plus clair les MMAL
+swap image map marche po, vérifer avec ff 3.5 a la job si ca fonctionne une fois réparé
+- il y a pas moyen de retourner sur la page d'accueil pour choisir la langue : soit mettre un onglet page d'accueil soit sous les logos fb, twitter… mettre une option anglais-français
+- Spasm écrit trop gros on dirait que c'est eux qui organisent (peut-être juste marquer avec la participation du festival spasm ou un truc du genre)
+lang('photoContent') est entre <p> et c'Est mieux, le faire partour alors
+url de news en fr, switch en fr, etc
+scrollbar ou flèches avec iphone
+news tous est plusieurs fois single news?
+h1 caché de manière vraiment lette
+miettes de pain pour se retrouver si on est trop creux dans albumphoto..
+les news avec le meme titre francais et anglais ont le meme url, trouver une solution
+lang mieux, comme marketel, envoyé par email
+social networking arrivent par le coté
+mettre $sectionData = array() partout dans les _loadView(), qui va overwriter titre, etc s'il y en a
+    Pas oublier de mettre load language file global pour "titre". - lang('company'). news
+/admin/news redirige vers /en/admin plutot que /en/admin/news
+makeup-maquillage en français
+backend
+cookies lang classe cookie pas accessible dans lang
+rss generator
+$this-load-view('media', $data); - currentSection
+detection browsers partout ailleurs avec popup
+mettre les includes dans views/inc/img, etc
+module login et sign up
+cookies, langue selon cookies
+Facebook, mettre notre banniere en photo de profil
+Mettre le background flou derriere la pancarte?
+enlever le titre ou le mettre caché?
+Titres de seciont qui sont en maj, mettre en camelcase
+fleches scroll pas la si pas de scroll à faire
+main.css a global.css
+Manque un élément je pense pour les preloader, genre pas loader images lowres si les highres sont déjà loadés
+fonction swap image highres, mettre a la map aussi
+
+
+Quand site publié:
+Arranger le contenu mieux que en un gros bloc dans le fichier langue (séparer dans la vue et mettre du contenu avec styles différent)
+
+
+
+Makeup, costume and zombie links
+****
+Liens pour le maquillage, les costumes et les zombies
+http://www.montrealzombiewalk.com/fr/news

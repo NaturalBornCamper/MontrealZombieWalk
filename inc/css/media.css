@@ -1,0 +1,19 @@
+/* CSS Document */
+
+.zoom
+{
+	background-color: red;
+	background:url(../../img/zoom.gif) no-repeat 50% 50%;	
+	position:absolute;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-o-opacity:0.5;
+	-webkit-opacity:0.5;
+	-khtml-opacity:0.5;
+	opacity:0.5;
+}
+
+h3
+{
+	margin-top: 30px;
+}

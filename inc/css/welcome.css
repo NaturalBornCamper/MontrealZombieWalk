@@ -1,0 +1,43 @@
+/* CSS Document */
+
+#wrapper #websiteTitle
+{
+	font-family: DowncomeRegular;
+	font-size:60px;
+	position:absolute;
+	padding: 20px 10px;
+	color:#fff;
+	text-align:center;
+	background: url(../../img/black13.png);
+	-moz-border-radius: 15px;
+	-o-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-ms-border-radius: 15px;
+	border-radius: 15px;
+}
+
+#wrapper #languageSelection
+{
+	position:absolute;
+	width:400px;
+	padding: 20px 10px;
+	color:#fff;
+	text-align:center;
+	background: url(../../img/black13.png);
+	-moz-border-radius: 15px;
+	-o-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-ms-border-radius: 15px;
+	border-radius: 15px;
+}
+
+#wrapper #languageSelection a
+{
+	color:#f00;
+	font-style:normal;
+}
+
+#wrapper #spasmLogo
+{
+	position:absolute;
+}

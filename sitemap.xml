@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/infos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/infos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/infos/when</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/infos/when</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/infos/where</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/infos/where</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/infos/guidelines</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/infos/guidelines</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>1</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/videos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/videos</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/fanart</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/fanart</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/help</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/help</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/help/donate</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/help/donate</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/help/helpers</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/help/helpers</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/help/merchandise</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/help/merchandise</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/links</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/links</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/links/makeup</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/links/makeup</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/links/costumes</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/links/costumes</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/links/useful-links</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/links/useful-links</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/links/friends</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/links/friends</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.15</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/contact/</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/contact/</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.50</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/contact/faqs</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/contact/faqs</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/contact/forum</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/contact/forum</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/contact/contact-us</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.35</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/contact/contact-us</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.35</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/sitemap</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/sitemap</loc>
+		<lastmod>2011-08-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+</urlset>

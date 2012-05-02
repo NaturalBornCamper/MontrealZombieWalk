@@ -1,0 +1,45 @@
+/* CSS Document */
+
+#wrapper
+{
+	position:relative;
+	width:80%;
+	margin: 20px auto;	
+}
+
+#wrapper #newsList div.row
+{
+	clear:both;
+	overflow:auto;
+}
+
+#wrapper #newsList div.row:nth-child(odd)
+{
+	background-color:#eee;
+}
+
+#wrapper #newsList div.row div
+{
+	float:left;
+	margin:5px;
+}
+
+#wrapper #newsList div.row div.newsTitle
+{
+	width:200px;
+}
+
+#wrapper #newsList div.row div.newsDescription
+{
+	width:300px;
+}
+
+#wrapper #newsList div.row div.newsDate
+{
+	width:200px;
+}
+
+#wrapper #newsAdd #related textarea
+{
+	height:50px;
+}
