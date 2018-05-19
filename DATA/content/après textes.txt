@@ -1,0 +1,4 @@
+-Faire le plus de lien sitelinks possible entre les pages
+-Mettre des <u><b><i> aux endroits appropriés
+-Mettre des sous-titres plus longs et plus descriptifs (phrases)
+-Mettre les h1, h2, h3
