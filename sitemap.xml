@@ -5,322 +5,1134 @@
 			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/infos</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>monthly</changefreq>
 		<priority>1</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/infos</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>monthly</changefreq>
 		<priority>1</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/en/infos/when</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/en/infos/about</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.75</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/fr/infos/when</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
-		<priority>0.75</priority>
-	</url>
-
-	<url>
-		<loc>http://www.montrealzombiewalk.com/en/infos/where</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
-		<priority>0.75</priority>
-	</url>
-
-	<url>
-		<loc>http://www.montrealzombiewalk.com/fr/infos/where</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/fr/infos/about</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.75</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/infos/guidelines</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.50</priority>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/infos/guidelines</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.50</priority>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>yearly</changefreq>
+		<priority>0.75</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/news</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>1</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/news</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>yearly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>daily</changefreq>
 		<priority>1</priority>
 	</url>
 
 	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Copywriter-needed</loc>
+		<lastmod>2012-05-01</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Rdacteur-rdactrice-demand</loc>
+		<lastmod>2012-05-01</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Old-Facebook-page-to-be-deleted-join-the-new-one</loc>
+		<lastmod>2012-02-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Lancienne-page-Facebook-sera-efface-allez-voir-la-nouvelle</loc>
+		<lastmod>2012-02-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Zombie-hunters-interview</loc>
+		<lastmod>2012-01-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Vido-de-lentrevue-des-chasseurs</loc>
+		<lastmod>2012-01-25</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Teaser-zombies-hunters-interview</loc>
+		<lastmod>2012-01-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Vido-Bande-Annonce-entrevue-des-chasseurs</loc>
+		<lastmod>2012-01-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Zombie-Interview-trailer-Alternative-reality2</loc>
+		<lastmod>2012-01-10</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Bande-annonce-de-lentrevue-avec-les-zombies-Ralit-alternative2</loc>
+		<lastmod>2012-01-10</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Zombie-Interview-trailer-Alternative-reality</loc>
+		<lastmod>2012-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Bande-annonce-de-lentrevue-avec-les-zombies-Ralit-alternative</loc>
+		<lastmod>2012-01-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Wrap-party</loc>
+		<lastmod>2011-11-03</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Aprs-party</loc>
+		<lastmod>2011-11-03</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/2136-new-pictures-on-the-website</loc>
+		<lastmod>2011-10-28</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/2136-nouvelles-photos-sur-le-site</loc>
+		<lastmod>2011-10-28</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/We-have-some-tshirts-left</loc>
+		<lastmod>2011-10-24</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Il-nous-reste-des-tshirts</loc>
+		<lastmod>2011-10-24</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Youve-got-picturesvidos-you-want-to-show-off</loc>
+		<lastmod>2011-10-23</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Vous-avez-des-photosvidos-que-vous-voulez-montrer</loc>
+		<lastmod>2011-10-23</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/The-uttimate-guide-to-the-perfect-zombie</loc>
+		<lastmod>2011-10-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Le-guide-ultime-du-parfait-zombie</loc>
+		<lastmod>2011-10-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/So-whats-happening-after-the-Montreal-Zombie-Walk</loc>
+		<lastmod>2011-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Faque-cest-quoi-qui-se-passe-aprs-la-Marche-des-Zombies</loc>
+		<lastmod>2011-10-20</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Our-first-fanart-love-it</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Notre-premier-fanart-ma-la-de</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/answers-to-all-your-favorite-questions</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/reponses-a-toutes-vos-questions-preferees</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Makeup-costume-and-zombie-links</loc>
+		<lastmod>2011-10-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Liens-pour-le-maquillage-les-costumes-et-les-zombies</loc>
+		<lastmod>2011-10-18</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/montreal-zombie-walk-at-infoman</loc>
+		<lastmod>2011-10-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/la-marche-des-zombies-de-montreal-a-infoman</loc>
+		<lastmod>2011-10-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Media-section-is-out</loc>
+		<lastmod>2011-10-16</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Section-media-en-ligne</loc>
+		<lastmod>2011-10-16</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/kitsch-halloween-party</loc>
+		<lastmod>2011-10-15</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/kitsch-a-l-horreur</loc>
+		<lastmod>2011-10-15</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Zombie-Movie-From-Quebec</loc>
+		<lastmod>2011-10-14</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Film-de-zombies-qubecois</loc>
+		<lastmod>2011-10-14</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/First-prize-for-costume-contest</loc>
+		<lastmod>2011-10-13</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Premier-prix-du-concours-de-costume</loc>
+		<lastmod>2011-10-13</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Second-MZW-Trailer</loc>
+		<lastmod>2011-10-12</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Deuxime-Trailer-MZW</loc>
+		<lastmod>2011-10-12</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Montreal-Zombie-Walk-Trailer</loc>
+		<lastmod>2011-10-11</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Bande-annonce-Marches-Des-Zombies-De-Montral</loc>
+		<lastmod>2011-10-11</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/A-decade-of-SPASM</loc>
+		<lastmod>2011-10-03</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Une-dcennie-de-SPASM</loc>
+		<lastmod>2011-10-03</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/The-Web-Welcomes-Our-Official-Website</loc>
+		<lastmod>2011-09-22</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Le-Web-Accueille-Notre-Site-Web</loc>
+		<lastmod>2011-09-22</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Montreal-Zombie-Walk-Teaser-33</loc>
+		<lastmod>2011-09-22</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Montreal-Zombie-Walk-Teaser-33</loc>
+		<lastmod>2011-09-22</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Montreal-Zombie-Walk-Teaser-23</loc>
+		<lastmod>2011-09-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Montreal-Zombie-Walk-Teaser-23</loc>
+		<lastmod>2011-09-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/news/Montreal-Zombie-Walk-Teaser-13</loc>
+		<lastmod>2011-09-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/news/Montreal-Zombie-Walk-Teaser-13</loc>
+		<lastmod>2011-09-21</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
 		<loc>http://www.montrealzombiewalk.com/en/media</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/media</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/media/photos</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>weekly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/media/photos</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>weekly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/media/videos</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/media/videos</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/media/fanart</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/media/fanart</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/official-montreal-zombie-walk-2011-album</loc>
+		<lastmod>2011-12-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/albume-officiel-de-la-marche-des-zombies-de-montreal-2011</loc>
+		<lastmod>2011-12-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/melissa-bissett</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/melissa-bissett</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/crapule-creation</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/crapule-creation</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/jean-sebastien</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/jean-sebastien</loc>
+		<lastmod>2011-11-02</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/kyle-ruggles</loc>
+		<lastmod>2011-10-28</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/kyle-ruggles</loc>
+		<lastmod>2011-10-28</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/damien-alaux</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/damien-alaux</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/reneau-frigon</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/reneau-frigon</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/jo-gorsky</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/jo-gorsky</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/yuki-sumah</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/yuki-sumah</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/kelso</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/kelso</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/william-d-agostino</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/william-d-agostino</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/alain-lemire</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/alain-lemire</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/marcela-williams-lara</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/marcela-williams-lara</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/patrick-packwood</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/patrick-packwood</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/pierre-bourgault</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/pierre-bourgault</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/pouiffe</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/pouiffe</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/renaud-sakelaris</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/renaud-sakelaris</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/rick-grimes-charles-j-colnet</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/rick-grimes-charles-j-colnet</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/ronald-santerre</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/ronald-santerre</loc>
+		<lastmod>2011-10-27</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/besisika</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/besisika</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/david-brieugne</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/david-brieugne</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/eva-blue</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/eva-blue</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/alain-denault</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/alain-denault</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/amaury-evra</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/amaury-evra</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/charline-provost</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/charline-provost</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/christopher-candela</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/christopher-candela</loc>
+		<lastmod>2011-10-26</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/fanart/walking-dead-poster</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/fanart/affiche-walking-dead</loc>
+		<lastmod>2011-10-19</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/infoman-interview</loc>
+		<lastmod>2011-10-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/entrevue-infoman</loc>
+		<lastmod>2011-10-17</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/montreal-zombie-walk-poster</loc>
+		<lastmod>2011-10-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/affiche-marche-des-zombies-de-montreal</loc>
+		<lastmod>2011-10-05</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/theatre-plaza-total-crap</loc>
+		<lastmod>2011-09-30</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/theatre-plaza-total-crap</loc>
+		<lastmod>2011-09-30</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/media/photos/teaser-trailer-shooting</loc>
+		<lastmod>2011-09-16</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/media/photos/tournage-de-la-bande-annonce</loc>
+		<lastmod>2011-09-16</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>.75</priority>
+	</url>
+
+	<url>
 		<loc>http://www.montrealzombiewalk.com/en/help</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/help</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/help/donate</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/help/donate</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/en/help/helpers</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.25</priority>
-	</url>
-
-	<url>
-		<loc>http://www.montrealzombiewalk.com/fr/help/helpers</loc>
-		<lastmod>2011-08-27</lastmod>
-		<changefreq>monthly</changefreq>
-		<priority>0.25</priority>
-	</url>
-
-	<url>
 		<loc>http://www.montrealzombiewalk.com/en/help/merchandise</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/help/merchandise</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
+		<loc>http://www.montrealzombiewalk.com/en/help/helpers</loc>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/help/helpers</loc>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.25</priority>
+	</url>
+
+	<url>
 		<loc>http://www.montrealzombiewalk.com/en/links</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/links</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.25</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/links/makeup</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/links/makeup</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/links/costumes</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/links/costumes</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/links/useful-links</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/links/useful-links</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/en/links/friends</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/en/links/partners</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/fr/links/friends</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/fr/links/partners</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.15</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/contact/</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/contact/</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.50</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/en/contact/faqs</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/en/contact/faq</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
-		<loc>http://www.montrealzombiewalk.com/fr/contact/faqs</loc>
-		<lastmod>2011-08-27</lastmod>
+		<loc>http://www.montrealzombiewalk.com/fr/contact/faq</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/contact/forum</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>always</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/contact/forum</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>always</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/contact/contact-us</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.35</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/contact/contact-us</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>yearly</changefreq>
 		<priority>0.35</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/en/sitemap</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.40</priority>
 	</url>
 
 	<url>
 		<loc>http://www.montrealzombiewalk.com/fr/sitemap</loc>
-		<lastmod>2011-08-27</lastmod>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/en/press</loc>
+		<lastmod>2012-05-07</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>0.40</priority>
+	</url>
+
+	<url>
+		<loc>http://www.montrealzombiewalk.com/fr/press</loc>
+		<lastmod>2012-05-07</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>0.40</priority>
 	</url>
